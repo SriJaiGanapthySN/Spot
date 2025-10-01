@@ -1,6 +1,6 @@
 # spot
 
-A new Flutter project.
+A Music Therapy app .
 
 ## Getting Started
 
